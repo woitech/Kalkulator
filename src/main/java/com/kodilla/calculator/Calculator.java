@@ -1,4 +1,4 @@
-package com.kodilla.kalkulator;
+package com.kodilla.calculator;
 
 public class Calculator {
     public static void main(String[] args) {
